@@ -1,2 +1,3 @@
 # wr3_react-redux_review
-Created with CodeSandbox
+
+Live example: https://codesandbox.io/s/github/esellors/wr3_react-redux_review
